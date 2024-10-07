@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ArticleLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ArticleLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArticleLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ArticleLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ArticleLibrary/ArticleLibrary.csproj",
+      "msbuildProject": "../ArticleLibrary/ArticleLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ArticleLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\masoo\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstraße\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\ArticleLibrary.csproj": {
+              "projectPath": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstraße\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\ArticleLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,6 +6,7 @@ namespace WebAPI_Grundlagen.Models.DB
     public class DbManager : DbContext
     {
         public DbSet<Article> Articles { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

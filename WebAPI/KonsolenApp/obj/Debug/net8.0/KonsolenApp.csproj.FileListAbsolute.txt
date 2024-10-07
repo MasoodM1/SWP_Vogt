@@ -12,3 +12,8 @@ C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\obj\Debug\net8.0\KonsolenApp.pdb
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\obj\Debug\net8.0\KonsolenApp.genruntimeconfig.cache
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\obj\Debug\net8.0\ref\KonsolenApp.dll
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\bin\Debug\net8.0\ArticleLibrary.dll
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\bin\Debug\net8.0\ArticleLibrary.pdb
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\obj\Debug\net8.0\KonsolenApp.csproj.AssemblyReference.cache
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\obj\Debug\net8.0\KonsolenApp.sourcelink.json
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\KonsolenApp\obj\Debug\net8.0\Konsolen.4A912FA0.Up2Date

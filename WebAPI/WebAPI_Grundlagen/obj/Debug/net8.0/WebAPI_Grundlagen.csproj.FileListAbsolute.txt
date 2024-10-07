@@ -104,3 +104,4 @@ C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\WebAPI_Grundlagen\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\WebAPI_Grundlagen\bin\Debug\net8.0\ArticleLibrary.dll
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\WebAPI_Grundlagen\bin\Debug\net8.0\ArticleLibrary.pdb
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\WebAPI_Grundlagen\obj\Debug\net8.0\WebAPI_Grundlagen.sourcelink.json

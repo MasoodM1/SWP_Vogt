@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "KonsolenApp/1.0.0": {
+        "dependencies": {
+          "ArticleLibrary": "1.0.0"
+        },
         "runtime": {
           "KonsolenApp.dll": {}
+        }
+      },
+      "ArticleLibrary/1.0.0": {
+        "runtime": {
+          "ArticleLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "KonsolenApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArticleLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{1359CDBA-63F5-4EEB-A8B7-F1EC6883FC95}|KonsolenApp\\KonsolenApp.csproj|solutionrelative:konsolenapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\webapi\\webapi_grundlagen\\models\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|solutionrelative:webapi_grundlagen\\models\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\webapi\\webapi_grundlagen\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|solutionrelative:webapi_grundlagen\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\webapi\\webapi_grundlagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|solutionrelative:webapi_grundlagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F87A9D64-B34D-4519-AA8F-FC9CF870A099}|ArticleLibrary\\ArticleLibrary.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\webapi\\articlelibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87A9D64-B34D-4519-AA8F-FC9CF870A099}|ArticleLibrary\\ArticleLibrary.csproj|solutionrelative:articlelibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\webapi\\webapi_grundlagen\\models\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D3BBA8-65C6-45A0-9E50-663E7FD351A1}|WebAPI_Grundlagen\\WebAPI_Grundlagen.csproj|solutionrelative:webapi_grundlagen\\models\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
-              "RelativeDocumentMoniker": "KonsolenApp\\Program.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
-              "RelativeToolTip": "KonsolenApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:43:23.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbManager.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
-              "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
-              "RelativeToolTip": "WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:40:34.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Program.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Program.cs",
-              "RelativeToolTip": "WebAPI_Grundlagen\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:49:54.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "WebAPI_Grundlagen\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:26:15.135Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -93,8 +45,69 @@
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI_Grundlagen\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:26:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\User.cs",
+              "RelativeDocumentMoniker": "ArticleLibrary\\User.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\User.cs",
+              "RelativeToolTip": "ArticleLibrary\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:21:58.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
+              "RelativeDocumentMoniker": "KonsolenApp\\Program.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
+              "RelativeToolTip": "KonsolenApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:43:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbManager.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
+              "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
+              "RelativeToolTip": "WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:34.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "WebAPI_Grundlagen\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA4wEIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:26:15.135Z",
+              "EditorCaption": ""
             }
           ]
         }

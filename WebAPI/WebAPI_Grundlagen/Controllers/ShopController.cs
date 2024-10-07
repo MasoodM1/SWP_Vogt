@@ -42,23 +42,40 @@ namespace WebAPI_Grundlagen.Controllers
             this._dbManager = dbManager;
         }
 
+        private async Task<bool> IsApiKeyValid(Guid apiKey)
+        {
+            return await this._dbManager.Users.AnyAsync(u => u.ApiKey == apiKey);
+        }
+
         [HttpGet("articles")]
-        public async Task<IActionResult> GetAllArticles()
+        public async Task<IActionResult> GetAllArticles([FromQuery] Guid apiKey)
         {
             // alle Artikel aus der DB holen
             // und nach JSON umwandeln
+            if (!await IsApiKeyValid(apiKey))
+            {
+                return Unauthorized("APIKey Falsch");
+            }
             return new JsonResult(await this._dbManager.Articles.ToListAsync());
         }
 
         [HttpGet("articles/{id:int}")]
-        public async Task<IActionResult> GetArticleById(int id)
+        public async Task<IActionResult> GetArticleById(int id, [FromQuery] Guid apiKey)
         {
+            if (!await IsApiKeyValid(apiKey))
+            {
+                return Unauthorized("APIKey Falsch");
+            }
             return new JsonResult(await this._dbManager.Articles.FindAsync(id));
         }
 
         [HttpDelete("articles/{id:int}")]
-        public async Task<IActionResult> DeleteArticleById(int id)
+        public async Task<IActionResult> DeleteArticleById(int id, [FromQuery] Guid apiKey)
         {
+            if (!await IsApiKeyValid(apiKey))
+            {
+                return Unauthorized("APIKey Falsch");
+            }
             var article = await this._dbManager.Articles.FindAsync(id);
             if (article == null)
             {
@@ -70,16 +87,24 @@ namespace WebAPI_Grundlagen.Controllers
         }
 
         [HttpPost("articles")]
-        public async Task<IActionResult> CreateArticle([FromBody] Article article)
+        public async Task<IActionResult> CreateArticle([FromBody] Article article, [FromQuery] Guid apiKey)
         {
+            if (!await IsApiKeyValid(apiKey))
+            {
+                return Unauthorized("APIKey falsch");
+            }
             await this._dbManager.Articles.AddAsync(article);
             await this._dbManager.SaveChangesAsync();
             return Ok();
         }
 
         [HttpPut("articles/{id:int}")]
-        public async Task<IActionResult> UpdateArticle(int id, [FromBody] Article article)
+        public async Task<IActionResult> UpdateArticle(int id, [FromBody] Article article, [FromQuery] Guid apiKey)
         {
+            if (!await IsApiKeyValid(apiKey))
+            {
+                return Unauthorized("APIKey falsch");
+            }
             var dbArticle = await this._dbManager.Articles.FindAsync(id);
             if (dbArticle == null)
             {

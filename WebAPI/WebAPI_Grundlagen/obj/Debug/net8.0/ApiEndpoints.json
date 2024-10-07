@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "WebAPI_Grundlagen.Controllers.ShopController",
+    "Method": "GetAllArticles",
+    "RelativePath": "api/shop/articles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apiKey",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Grundlagen.Controllers.ShopController",
+    "Method": "CreateArticle",
+    "RelativePath": "api/shop/articles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "article",
+        "Type": "ArticleLibrary.Article",
+        "IsRequired": true
+      },
+      {
+        "Name": "apiKey",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Grundlagen.Controllers.ShopController",
+    "Method": "GetArticleById",
+    "RelativePath": "api/shop/articles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "apiKey",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Grundlagen.Controllers.ShopController",
+    "Method": "DeleteArticleById",
+    "RelativePath": "api/shop/articles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "apiKey",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Grundlagen.Controllers.ShopController",
+    "Method": "UpdateArticle",
+    "RelativePath": "api/shop/articles/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "article",
+        "Type": "ArticleLibrary.Article",
+        "IsRequired": true
+      },
+      {
+        "Name": "apiKey",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Grundlagen.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/user/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "ArticleLibrary.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

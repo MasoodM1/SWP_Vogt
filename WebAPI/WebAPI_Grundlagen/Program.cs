@@ -1,6 +1,26 @@
 
 using WebAPI_Grundlagen.Models.DB;
 
+/*
+ *  1. Klassenbibliothek erstellen
+ *      a. Klasse Article vom WebAPI-Projekt in diese Bibl. verschieben
+ *          (WICHTIG: Klasse Article darf nicht mehr in der WebAPI enthalten sein)
+ *          - Namespace-Namen anpassen
+ *          
+ *      b. Bibliothek ins WebAPI-Projekt einbinden
+ *      c. testen, ob alles funktioniert (WebAPI-Projekt)
+ *  
+ *  2. KonsolenApp erzeugen (Client für den Zugriff auf die WebAPI)
+ *      a. Klasse HttpClient verwenden (besitzt methoden für
+ *          POST-, GET-, ... Anfragen)
+ *      b. alle Methoden der WebAPI von dieser KonsolenApp aufrufen und
+ *              Ergebnisse ausgeben
+ *          (alle Artikel abfragen und anzeigen, ein Artikel anzeigen, einen
+ *              Artikel löschen, einen neuen Artikel in der DB anlegen,
+ *              einen vorh. Artikel ändern)
+ */
+
+
 namespace WebAPI_Grundlagen
 {
     public class Program
