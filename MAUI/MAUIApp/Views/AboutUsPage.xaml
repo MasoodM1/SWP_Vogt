@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUIApp.Views.AboutUsPage"
+             Title="AboutUsPage">
+    <!-- Layout Grid verwenden -->
+    <VerticalStackLayout>
+        <Label 
+            Text="Masood"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+        Text="Tel.: 0043 568667687"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
