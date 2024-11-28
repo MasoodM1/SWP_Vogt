@@ -4,14 +4,72 @@
              x:Class="MAUIApp.Views.AboutUsPage"
              Title="AboutUsPage">
     <!-- Layout Grid verwenden -->
-    <VerticalStackLayout>
-        <Label 
-            Text="Masood"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-        <Label 
-        Text="Tel.: 0043 568667687"
-        VerticalOptions="Center" 
-        HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <!--
+        Views werden mit Komponenten (Button, Label, Image, usw.)
+        zusammengebaut
+    
+        es sollte immer ein Layoutmanager (VerticlaStackLayout,
+            HorizontalStackLayout, Grid) verwendet werden
+            => sie berechnen die größe der Komponenten abhängig
+                vom Gerät (Computer, Handy, ...)
+        
+        LayoutManager
+            VerticleStackLayout ... die hinzugefügten Komponenten
+                werden vertikal, von oben nach unten, eingefügt
+    
+            HorizontalStackLayout ... die hinzugefügten Komponenten
+                werden horizontal, von links nach rechts, eingefügt
+    
+            Grid ... Einteilung in Zeilen und Spalten (tabellenform)
+    
+            WICHTIG: es werden die LayoutManager oft kombiniert
+                (z.B. in einem Grid wird zusätzlich ein HorizontalStackLayout
+                    verwendet)
+    
+    -->
+
+
+    <Frame CornerRadius="22" BorderColor="CornflowerBlue">
+        <Grid RowDefinitions="1*, 1*, 1*, 1*" ColumnDefinitions="3*,7*"
+              Margin="20, 50, 20, 50">
+            <Label 
+                Grid.Row="0" Grid.Column="0"
+                Text="Name"
+                VerticalOptions="Center" 
+                HorizontalOptions="End" 
+                FontAttributes="Bold" />
+            <Label 
+                Grid.Row="0" Grid.Column="1"
+                Text="Masood"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start"
+                Padding="12, 0, 0, 0" />
+
+            <Label 
+                Grid.Row="1" Grid.Column="0"
+                Text="Tel.: "
+                VerticalOptions="Center" 
+                HorizontalOptions="End" 
+                FontAttributes="Bold" />
+            <Label 
+                Grid.Row="1" Grid.Column="1"
+                Text="0043 737878273"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start"
+                Padding="12, 0, 0, 0" />
+
+            <Label 
+                Grid.Row="2" Grid.Column="0"
+                Text="E-Mail "
+                VerticalOptions="Center" 
+                HorizontalOptions="End" 
+                FontAttributes="Bold" />
+            <Label 
+                Grid.Row="2" Grid.Column="1"
+                Text="masood@gmail.at"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start"
+                Padding="12, 0, 0, 0" />
+        </Grid>
+    </Frame>
 </ContentPage>

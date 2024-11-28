@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUIApp.Views.Registration"
+             Title="Registration">
+
+    
+
+    <Frame CornerRadius="20" BorderColor="Blue">
+        <Grid RowDefinitions="2*, 1*, 1*, 1*, 7*, 2*" ColumnDefinitions="3*, 7*">
+            <Label
+                Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                Text="Registrierungsformular"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                FontAttributes="Bold"
+                TextColor="Blue" 
+                FontSize="Large"/>
+            <Label
+                Grid.Row="1" Grid.Column="0"
+                Text="Vorname"
+                VerticalOptions="Center"
+                HorizontalOptions="End"
+                FontAttributes="Bold"
+                Padding="0, 0, 15, 0"
+                />
+            <Entry
+                Grid.Row="1" Grid.Column="1"
+                Placeholder="ihr Vorname!"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"
+                MinimumWidthRequest="500" />
+            <Label
+                Grid.Row="2" Grid.Column="0"
+                Text="Nachname"
+                VerticalOptions="Center"
+                HorizontalOptions="End"
+                FontAttributes="Bold"
+                Padding="0, 0, 15, 0" />
+            <Entry
+                Grid.Row="2" Grid.Column="1"
+                Placeholder="ihr Nachname!"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"
+                MinimumWidthRequest="500" />
+            <Label
+                Grid.Row="3" Grid.Column="0"
+                Text="Geburtsdatum"
+                VerticalOptions="Center"
+                HorizontalOptions="End"
+                FontAttributes="Bold" 
+                Padding="0, 0, 15, 0" />
+            <DatePicker
+                Grid.Row="3" Grid.Column="1"
+                VerticalOptions="Center"
+                HorizontalOptions="Start" />
+
+            <Frame CornerRadius="20" BorderColor="Blue" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+                <Grid RowDefinitions="2*, 1*, 1*, 1*, 1*" ColumnDefinitions="2*, 7*">
+                    <Label
+                        Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                        Text="Registrierungsformular"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        FontAttributes="Bold"
+                        TextColor="Red" />
+                    <Label
+                        Grid.Row="1" Grid.Column="0"
+                        Text="Straße"
+                        VerticalOptions="Center"
+                        HorizontalOptions="End"
+                        FontAttributes="Bold"
+                        Padding="0, 0, 15, 0"
+                        />
+                    <Entry
+                        Grid.Row="1" Grid.Column="1"
+                        Placeholder="ihre Straße!"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Start"
+                        MinimumWidthRequest="500" />
+                    <Label
+                        Grid.Row="2" Grid.Column="0"
+                        Text="Hausnummer"
+                        VerticalOptions="Center"
+                        HorizontalOptions="End"
+                        FontAttributes="Bold"
+                        Padding="0, 0, 15, 0"
+                        />
+                    <Entry
+                        Grid.Row="2" Grid.Column="1"
+                        Placeholder="ihre Hausnummer!"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Start"
+                        MinimumWidthRequest="500" />
+                    <Label
+                        Grid.Row="3" Grid.Column="0"
+                        Text="Postleitzahl"
+                        VerticalOptions="Center"
+                        HorizontalOptions="End"
+                        FontAttributes="Bold"
+                        Padding="0, 0, 15, 0"
+                        />
+                    <Entry
+                        Grid.Row="3" Grid.Column="1"
+                        Placeholder="ihre Postleitzahl!"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Start"
+                        MinimumWidthRequest="500" />
+                    <Label
+                        Grid.Row="4" Grid.Column="0"
+                        Text="Ort"
+                        VerticalOptions="Center"
+                        HorizontalOptions="End"
+                        FontAttributes="Bold"
+                        Padding="0, 0, 15, 0"
+                        />
+                    <Entry
+                        Grid.Row="4" Grid.Column="1"
+                        Placeholder="ihr Ort!"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Start"
+                        MinimumWidthRequest="500" />
+                </Grid>
+            </Frame>
+
+            <HorizontalStackLayout Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2">
+                <Button
+                    Text="Absenden"
+                    CornerRadius="30"
+                    BackgroundColor="Aqua"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    Margin="0, 0, 12, 0"/>
+                <Button
+                    Text="Formulardaten löschen"
+                    CornerRadius="30"
+                    BackgroundColor="Aqua"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Start"
+                    Margin="12, 0, 0, 0"/>
+            </HorizontalStackLayout>
+        </Grid>
+        
+    </Frame>
+</ContentPage>

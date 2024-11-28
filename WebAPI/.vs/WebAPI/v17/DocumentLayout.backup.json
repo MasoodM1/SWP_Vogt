@@ -37,32 +37,6 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
-              "RelativeDocumentMoniker": "KonsolenApp\\Program.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
-              "RelativeToolTip": "KonsolenApp\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T20:09:58.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\Article.cs",
-              "RelativeDocumentMoniker": "ArticleLibrary\\Article.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\Article.cs",
-              "RelativeToolTip": "ArticleLibrary\\Article.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:02:08.338Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
@@ -76,6 +50,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
+              "RelativeDocumentMoniker": "KonsolenApp\\Program.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\KonsolenApp\\Program.cs",
+              "RelativeToolTip": "KonsolenApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:09:58.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\Article.cs",
+              "RelativeDocumentMoniker": "ArticleLibrary\\Article.cs",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\ArticleLibrary\\Article.cs",
+              "RelativeToolTip": "ArticleLibrary\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:02:08.338Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Program.cs",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "WebAPI_Grundlagen\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T19:37:59.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T19:37:59.461Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "WebAPI_Grundlagen\\Models\\DB\\DbManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T19:37:54.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T19:37:54.87Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "WebAPI_Grundlagen\\Controllers\\UserController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T19:37:45.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T19:37:45.981Z"
             },
             {
               "$type": "Document",
@@ -121,7 +116,7 @@
               "RelativeDocumentMoniker": "WebAPI_Grundlagen\\Controllers\\ShopController.cs",
               "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\WebAPI\\WebAPI_Grundlagen\\Controllers\\ShopController.cs",
               "RelativeToolTip": "WebAPI_Grundlagen\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwGIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwGIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T19:37:44.105Z",
               "EditorCaption": ""

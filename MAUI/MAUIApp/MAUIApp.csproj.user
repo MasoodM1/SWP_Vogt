@@ -9,6 +9,9 @@
     <MauiXaml Update="Views\AboutUsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\Registration.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\ShopPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

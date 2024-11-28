@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\views\\aboutuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\views\\aboutuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\views\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\views\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\views\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\views\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|c:\\users\\masoo\\onedrive - htl anichstrasse\\dokumente\\htl-anichstra\u00DFe\\htl-5ahwii\\swp\\swp_vogth\\projekte\\swp_vogt\\maui\\mauiapp\\views\\aboutuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD726181-8EEE-4C3C-A579-AEA5B56EBDED}|MAUIApp\\MAUIApp.csproj|solutionrelative:mauiapp\\views\\aboutuspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +21,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 225,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +38,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopPage.xaml",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\ShopPage.xaml",
-              "RelativeDocumentMoniker": "MAUIApp\\Views\\ShopPage.xaml",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\ShopPage.xaml",
-              "RelativeToolTip": "MAUIApp\\Views\\ShopPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T14:45:14.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AboutUsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\AboutUsPage.xaml",
-              "RelativeDocumentMoniker": "MAUIApp\\Views\\AboutUsPage.xaml",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\AboutUsPage.xaml",
-              "RelativeToolTip": "MAUIApp\\Views\\AboutUsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\Registration.xaml",
+              "RelativeDocumentMoniker": "MAUIApp\\Views\\Registration.xaml",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\Registration.xaml",
+              "RelativeToolTip": "MAUIApp\\Views\\Registration.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T14:43:16.809Z",
+              "WhenOpened": "2024-10-21T14:04:41.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MAUIApp\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "MAUIApp\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T14:40:17.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MAUIApp\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\MainPage.xaml",
-              "RelativeToolTip": "MAUIApp\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T14:36:26.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "MAUIApp\\AppShell.xaml",
               "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\AppShell.xaml",
               "RelativeToolTip": "MAUIApp\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T14:30:56.537Z",
+              "WhenOpened": "2024-10-21T13:34:40.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutUsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\AboutUsPage.xaml",
+              "RelativeDocumentMoniker": "MAUIApp\\Views\\AboutUsPage.xaml",
+              "ToolTip": "C:\\Users\\masoo\\OneDrive - HTL Anichstrasse\\Dokumente\\HTL-Anichstra\u00DFe\\HTL-5AHWII\\SWP\\SWP_VogtH\\Projekte\\SWP_Vogt\\MAUI\\MAUIApp\\Views\\AboutUsPage.xaml",
+              "RelativeToolTip": "MAUIApp\\Views\\AboutUsPage.xaml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T13:30:04.35Z",
               "EditorCaption": ""
             }
           ]
