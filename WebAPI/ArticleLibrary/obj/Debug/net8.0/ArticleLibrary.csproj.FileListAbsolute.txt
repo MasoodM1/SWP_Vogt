@@ -5,8 +5,8 @@ C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.AssemblyInfoInputs.cache
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.AssemblyInfo.cs
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.sourcelink.json
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.dll
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\refint\ArticleLibrary.dll
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.pdb
 C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ref\ArticleLibrary.dll
-C:\Users\masoo\OneDrive - HTL Anichstrasse\Dokumente\HTL-Anichstraße\HTL-5AHWII\SWP\SWP_VogtH\Projekte\SWP_Vogt\WebAPI\ArticleLibrary\obj\Debug\net8.0\ArticleLibrary.sourcelink.json
